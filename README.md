@@ -125,4 +125,16 @@ includes/js - this file contains all js file that is included in the application
 
 
 
+<img style="max-width:100%;" src="https://github.com/lavanya-nyros/Custom-PHP-Devise/raw/master/screenshots/login.JPG
+" alt="login" title="login">
+
+
+
+<img style="max-width:100%;" src="https://github.com/lavanya-nyros/Custom-PHP-Devise/raw/master/screenshots/profile.JPG
+" alt="profile" title="profile">
+
+
+
+
+
 
